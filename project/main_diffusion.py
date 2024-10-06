@@ -1,3 +1,5 @@
+# https://github.com/wendy-xiaozong/Q-space-Up-sampling-Diffusion-Weighted-Images/blob/main/code/diffusion/main.py
+
 import time
 import glob
 from argparse import ArgumentParser, Namespace
