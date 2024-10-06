@@ -1,6 +1,6 @@
 <div align="center">  
 
-## QID^2: An Image-Conditioned Diffusion Model for $Q$-space Up-sampling of DWI Data
+## $QID^2$: An Image-Conditioned Diffusion Model for $Q$-space Up-sampling of DWI Data
 
 [![MIDL](https://img.shields.io/badge/CDMRI-2024-lightblue)](https://arxiv.org/pdf/2409.02309)
 </div>
