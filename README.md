@@ -6,7 +6,7 @@
 </div>
 Reference Implementation of paper "An Image-Conditioned Diffusion Model for $Q$-space Up-sampling of DWI Data" of Zijian Chen*, Jueqi Wang*, Archana Venkataraman (* equal contribution), to appear in MICCAI 2024 International Workshop on Computational Diffusion MRI.
 
-[!img](img/diffusion.gif)
+![img](img/diffusion.gif)
 ## Method
 ![method](img/method.png)
 
@@ -14,7 +14,7 @@ Reference Implementation of paper "An Image-Conditioned Diffusion Model for $Q$-
 ### Qualitative Results
 ![qualitative](img/qualitative_results.png)
 ### Quantitative Results
-![](figures/quantitative.png)
+![](img/quantitative.png)
 
 
 ## Citation
